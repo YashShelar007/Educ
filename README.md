@@ -45,7 +45,7 @@ Many students struggle to organize their learning and stay on track. Educ provid
 
 ## 📸 Screenshots
 
-- 🧠[](educ/Assets.xcassets/AppIcon.appiconset/imgonline-com-ua-resize-4C7QMyfd7F8sx25b.jpg)
+- ![App Icon](educ/Assets.xcassets/AppIcon.appiconset/imgonline-com-ua-resize-4C7QMyfd7F8sx25b.jpg)
 
 ---
 
